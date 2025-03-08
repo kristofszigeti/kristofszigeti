@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kristofszigeti
-- 👀 I’m interested in programming and automation or automatize processes
-- 🌱 I’m currently learning construction information technology, but I am a structural engineer as well.
+- 👀 I’m interested in programming and automate processes with the helping hands of softwares
+- 🌱 I’m currently learning construction information technology, but I work as structural engineer dealing with steel structural design and detailing.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me via my linkedin profile: https://www.linkedin.com/in/szigeti-krist%C3%B3f/
+- ⚡ Fun fact: I love playing board games.
 
 <!---
 kristofszigeti/kristofszigeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
